@@ -5,6 +5,10 @@ The system provides user-friendly banking features including login, account mana
 
 ---
 
+<img width="725" height="349" alt="Screenshot 2025-08-26 130146" src="https://github.com/user-attachments/assets/63be9c20-bb4a-4c23-8373-ec01b88bbaee" />
+<img width="741" height="358" alt="Screenshot 2025-08-26 130302" src="https://github.com/user-attachments/assets/796e3622-95bd-45f4-a31b-047ca8902727" />
+
+
 ## Features
 
 - **Secure Authentication** – User login and session handling.  
